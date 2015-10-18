@@ -1,0 +1,44 @@
+<shapes>
+    <triangle>
+        <color>red</color>
+        <side>1.5</side>
+        <side>1.8</side>
+        <side>1.7</side>
+    </triangle>
+    <circle>
+        <color>orange</color>
+        <diameter>1.5</diameter>
+    </circle>
+    <rhomb>
+        <color>red</color>
+        <diagonal>3</diagonal>
+        <diagonal>4</diagonal>
+    </rhomb>
+    <rect>
+        <color>red</color>
+        <side>4</side>
+        <side>6</side>
+    </rect>
+    <square>
+        <color>red</color>
+        <side>4</side>
+    </square>
+    <ellipse>
+        <color>orange</color>
+        <radius>4</radius>
+        <radius>6</radius>
+    </ellipse>
+    <trapezoid>
+        <side>1.8</side>
+        <side>1.7</side>
+        <height>3</height>
+    </trapezoid>
+    <qwe>
+        <side>1.8</side>
+        <side>1.7</side>
+        <height>3</height>
+    </qwe>
+</shapes>
+
+
+
